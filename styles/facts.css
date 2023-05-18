@@ -7,10 +7,11 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 50%;
-    background-color: blanchedalmond;
-    margin: 7%;
+    width: 33%;
+    background-color: cornsilk;
+    margin: 1% 1%;
     border-radius: 5%;
+    padding: 0%;
 
 }
 
@@ -32,9 +33,29 @@ p {
 
 .container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 footer img {
     width: 20%;
+}
+
+a, ul li {
+    color: slategray;
+}
+
+a:hover {
+    color: khaki;
+}
+
+nav {
+    background-color: rgb(255, 255, 253);
+}
+
+ul {
+    margin: 0%;
+}
+
+h1 {
+    margin-bottom: 0%;
 }
