@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(224, 195, 242);
     text-align: center;
     color: rgb(87, 121, 156);
     margin: 0%;
     font-family: marker felt;
+    background-image: url(https://thumbs.dreamstime.com/b/lilac-background-checkered-background-checkered-pattern-purple-background-light-background-fine-lines-white-purple-lines-144393319.jpg); 
 }
 
 a {
@@ -11,9 +11,17 @@ a {
     color: darkblue;
 }
 
+img {
+    cursor: url("../images/opengudetama.png"), auto;
+}
+
 ul {
     list-style: none;
     color: darkblue;
+}
+
+main {
+    cursor: url("../images/egg-cursor.png"), auto;
 }
 
 nav {
@@ -28,3 +36,4 @@ li {
 footer {
     color: rgb(11, 11, 185);
 }
+
