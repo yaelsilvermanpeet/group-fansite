@@ -9,7 +9,7 @@ section {
     align-items: center;
     width: 50%;
     background-color: blanchedalmond;
-    margin: 3%;
+    margin: 7%;
     border-radius: 5%;
 
 }
@@ -21,15 +21,20 @@ div {
 
 img {
     height: 50%;
-    width: 50%;
+    width: 40%;
     border-radius: 5%;
 }
 
 p {
     width: 50%;
+    line-height: 150%;
 }
 
 .container {
     display: flex;
     justify-content: space-evenly;
+}
+
+footer img {
+    width: 20%;
 }
