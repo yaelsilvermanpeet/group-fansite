@@ -1,28 +1,24 @@
 body {
     text-align: center;
-    color: rgb(87, 121, 156);
+    color: #352f36;
     margin: 0%;
-    font-family: marker felt;
-    background-image: url(https://thumbs.dreamstime.com/b/lilac-background-checkered-background-checkered-pattern-purple-background-light-background-fine-lines-white-purple-lines-144393319.jpg); 
+    background-color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 a {
     text-decoration: none;
-    color: darkblue;
+    color: #352f36;
 }
 
-img {
-    cursor: url("../images/opengudetama.png"), auto;
-}
 
 ul {
     list-style: none;
     color: darkblue;
+    font-weight: bold;
 }
 
-main {
-    cursor: url("../images/egg-cursor.png"), auto;
-}
 
 nav {
     width: 100%;
@@ -34,6 +30,13 @@ li {
 }
 
 footer {
-    color: rgb(11, 11, 185);
+    color:chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
+
+#banner {
+    width: 100%;
+}
+
 
